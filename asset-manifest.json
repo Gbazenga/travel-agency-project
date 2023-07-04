@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/travel-agency-project/static/css/main.d9ceeb20.css",
+    "main.js": "/travel-agency-project/static/js/main.0f09f022.js",
+    "static/media/appt.png": "/travel-agency-project/static/media/appt.d00d89f396c2c3db7c4a.png",
+    "static/media/food.png": "/travel-agency-project/static/media/food.08df01e4e0b6cbeaac0f.png",
+    "static/media/header-bg-4.jpg": "/travel-agency-project/static/media/header-bg-4.d8e9796918ccc0e6b57b.jpg",
+    "static/media/header-bg-2.jpg": "/travel-agency-project/static/media/header-bg-2.138879cbdbe6c830c353.jpg",
+    "static/media/header-bg-1.jpg": "/travel-agency-project/static/media/header-bg-1.76ada3699e7b91aa365d.jpg",
+    "static/media/car.png": "/travel-agency-project/static/media/car.a08aff1fb7b10c96f1e6.png",
+    "static/media/testimonials-bg.jpg": "/travel-agency-project/static/media/testimonials-bg.fa2825e6f02be5973144.jpg",
+    "static/media/header-bg-3.jpg": "/travel-agency-project/static/media/header-bg-3.6c6f48a95583eb31c8d1.jpg",
+    "static/media/rentals-bg.jpg": "/travel-agency-project/static/media/rentals-bg.ca55e2308b7abf5f7740.jpg",
+    "static/media/car-rentals-bg.jpg": "/travel-agency-project/static/media/car-rentals-bg.d161942562722831d20d.jpg",
+    "static/media/restaurants-bg.jpg": "/travel-agency-project/static/media/restaurants-bg.6fa6ada6e68c297ed249.jpg",
+    "index.html": "/travel-agency-project/index.html",
+    "main.d9ceeb20.css.map": "/travel-agency-project/static/css/main.d9ceeb20.css.map",
+    "main.0f09f022.js.map": "/travel-agency-project/static/js/main.0f09f022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ceeb20.css",
+    "static/js/main.0f09f022.js"
+  ]
+}
